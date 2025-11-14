@@ -19,7 +19,6 @@ A comprehensive machine learning project for classifying IRIS flower species usi
 - [Results](#results)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## 🎯 Overview
 
@@ -263,15 +262,12 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
+- GitHub: [@sambitcodes](https://github.com/sambitcodes)
+- LinkedIn: [Sambit Chakraborty](https://www.linkedin.com/in/samchak/)
 
 ## 🙏 Acknowledgments
 
@@ -284,8 +280,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 For questions or suggestions, please open an issue or contact:
-- Email: your.email@example.com
-- Project Link: https://github.com/yourusername/IRIS-Flower-Classification
+- Email: sambitmaths123@gmail.com
+- Project Link: https://github.com/sambitcodes/Iris_species_classification
 
 ---
 
