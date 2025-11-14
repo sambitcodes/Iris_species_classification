@@ -1,0 +1,18 @@
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+
+# OS
+.DS_Store
+Thumbs.db
+
+
+# Logs
+*.log
+
+
+# Models (optional - remove if you want to track models)
+# models/*.pkl
+# models/*.csv
